@@ -1,0 +1,31 @@
+{
+  "name": "is-node-browser",
+  "version": "0.1.0",
+  "description": "is-node-browser",
+  "main": "is.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gavinning/is-node-browser.git"
+  },
+  "keywords": [
+    "is",
+    "node",
+    "browser",
+    "is-node-browser",
+    "is",
+    "node",
+    "is",
+    "browser",
+    "is-node",
+    "is-browser"
+  ],
+  "author": "gavinning",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gavinning/is-node-browser/issues"
+  },
+  "homepage": "https://github.com/gavinning/is-node-browser#readme"
+}
